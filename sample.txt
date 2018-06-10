@@ -9,3 +9,5 @@ WREEEEE
 this is new line 3
 this is ZZZ new linebbbbbbbbbbb
 this is add newline from left pane
+this is add newline from right pane.
+
